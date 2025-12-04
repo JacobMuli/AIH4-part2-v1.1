@@ -1,0 +1,25 @@
+{
+    "rf_forecast_yield_t_ha": 7.169982698849118,
+    "lr_forecast_yield_t_ha": 7.6368628141230115,
+    "predicted_production_tonnes": 130902.37413288835,
+    "storage_recommendation": {
+        "predicted_tonnes": 130902.37413288835,
+        "required_capacity": 145448,
+        "allocated_capacity": 145500,
+        "allocation": [
+            {
+                "size": 1000,
+                "count": 145
+            },
+            {
+                "size": 250,
+                "count": 1
+            },
+            {
+                "size": 250,
+                "count": 1
+            }
+        ],
+        "utilization_rate": 0.8996726744528408
+    }
+}
